@@ -1,0 +1,51 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+nav {
+    background-color: #fff;
+    margin-bottom: 100px;
+    
+}
+
+span {
+    background-color: rgba(255,255,255,1);
+    color: red;
+    font-size: 2rem;
+    text-transform: uppercase;
+}
+
+.main_container {
+    background-color: black;
+    height: calc(100vh - 100px);
+}
+
+.main_container h3 {
+    font-size: 2rem;
+    font-weight: bold;
+    color: red;
+}
+
+.main_container h1 {
+    font-size: 3rem;
+    color:#fff;
+    word-spacing: 3px;
+}
+
+
+.main_container p {
+    color: rgb(121, 115, 115);
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+.main_container button {
+    background-color: rgb(231, 17, 17);
+    color: #fff;
+    text-transform: capitalize;
+}
+
+
+
